@@ -1,4 +1,4 @@
-# SourceCred Template Instance
+# SourceCred Adept Camp Instance
 
 This repository contains a template for running a SourceCred instance.
 
