@@ -1,5 +1,8 @@
 # SourceCred Adept Camp Instance
 
+
+See the cred: https://adept-camp.github.io/cred/#/explorer
+
 Repos:
 
 Bot: https://github.com/Adept-Camp/bot
