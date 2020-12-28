@@ -6,7 +6,7 @@ See the cred: https://adept-camp.github.io/cred/#/explorer
 Repos:
 
 Bot: https://github.com/Adept-Camp/bot
-Aracred: https://github.com/Adept-Camp/AdeptCred
+Aracred: https://github.com/Adept-Camp/AraCred
 This one :) Which is the SourceCred template instance for Adept Camp: https://github.com/Adept-Camp/cred/
 
 This repository contains a template for running a SourceCred instance.
