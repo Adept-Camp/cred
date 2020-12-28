@@ -1,5 +1,11 @@
 # SourceCred Adept Camp Instance
 
+Repos:
+
+Bot: https://github.com/Adept-Camp/bot
+Aracred: https://github.com/Adept-Camp/AdeptCred
+This one :) Which is the SourceCred template instance for Adept Camp: https://github.com/Adept-Camp/cred/
+
 This repository contains a template for running a SourceCred instance.
 
 New users of SourceCred are encouraged to fork this repo to start their own
